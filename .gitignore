@@ -2,3 +2,8 @@
 build/
 .vscode/
 *.log
+output/target
+output/build
+output/host
+output/staging
+output/.*
